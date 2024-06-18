@@ -1,4 +1,4 @@
-// File: /Users/daniel.hult/Sites/tutorials/ultra-agency/ultra-starter/app/page.js
+// File: /Users/johndee/Documents/HF11/gsap tutorial/ultra-starter/app/page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
